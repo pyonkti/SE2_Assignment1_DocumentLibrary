@@ -1,0 +1,18 @@
+
+
+Hello Sir/Madam:
+
+I am glad you find here. This document aims at explaining some part of the fuctionality 
+I accomplished here.
+
+The static entrance site can be acquired via the url:"http://localhost". This site supports storing
+all the data.
+
+I was confused by the way how to output as it is not clarified in the "README.rst".
+So my way to get all of the content is by sending "GET" request via this url:"http://localhost/library".
+It shall display all the data stored in the hbase, with the information of the server.
+I am not sure if I should write html file or js here cause I don't think it should be marked 
+ragarding the topic of this assignment. So I skipped this step.
+
+Best regards,
+Wei
